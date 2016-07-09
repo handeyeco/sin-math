@@ -5,7 +5,7 @@ It adds four methods to Math. They help with simple arithmetic for floating poin
 
 Each take two numbers and returns them either summed, subtracted, multiplied, or divided.
 
-Math.add()
-Math.sub()
-Math.mul()
+Math.add()  
+Math.sub()  
+Math.mul()  
 Math.div()
